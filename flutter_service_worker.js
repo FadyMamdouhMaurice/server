@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "52b1cf123e0d326c5ea492a411ef7991",
-"assets/AssetManifest.bin.json": "d9973fc7b6456cc9946729391db5986f",
-"assets/AssetManifest.json": "fcd9fe34c1e2a4329c3275f086e5a266",
+const RESOURCES = {"assets/AssetManifest.bin": "f569385572820c11c0abb590c3ce55ba",
+"assets/AssetManifest.bin.json": "2bc4deef1013798062a3d750ec8bb3c6",
+"assets/AssetManifest.json": "0b1407a7d9d6fb906c979929c06b8e33",
 "assets/assets/fonts/inter_fonts/Inter-V.ttf": "8d63a82f5fc6d6eba21050dd9111520d",
 "assets/assets/images/An-edge-through-better-modelling-min-2.png": "47d4eac586df266dacb923af67439742",
+"assets/assets/images/bg.jpeg": "d355d342538055db63d1955cd15a1247",
 "assets/assets/images/football-stadium-night.jpg": "b876f8058bd42324a80e65a059f814ea",
 "assets/assets/images/home.png": "fa5a9061c8bfcb1716ebcf0d1527ac19",
 "assets/assets/images/messi.jpg": "8c2120a4dc5fefc9d9b8da35eaaf7162",
@@ -43,9 +44,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "52b1cf123e0d326c5ea492a411ef7991
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c9313bb70d371686250617929d38262e",
-"/": "c9313bb70d371686250617929d38262e",
-"main.dart.js": "e50ca47ecfb371ffcfe0d23c4d97608c",
+"index.html": "df236ddb0955abf885ad3b30e43fc1c4",
+"/": "df236ddb0955abf885ad3b30e43fc1c4",
+"main.dart.js": "da4521ca67750fefe8aa51effc8b8cf6",
 "manifest.json": "37444b33de8e7995bb0a4deb91618dc0",
 "version.json": "8845e224ad1e9307205bd4bef17f3dff"};
 // The application shell files that are downloaded before a service worker can
