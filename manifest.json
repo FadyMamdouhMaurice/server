@@ -1,11 +1,11 @@
 {
-    "name": "statsbomb_     data_champions",
+    "name": "statsbomb_data_champions",
     "short_name": "statsbomb_data_champions",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "SBTraining Software.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
